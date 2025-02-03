@@ -43,8 +43,8 @@
             "show_dynamic_checkout": false
           }
         },
-        "scapify_restock_alert_request_alert_button_aQnzmp": {
-          "type": "shopify://apps/scapify-restock-alert/blocks/request_alert_button/91537784-83c9-419a-b7c5-1325beeb1ab7",
+        "scapify_restock_alert_star_rating_3VHQhm": {
+          "type": "shopify://apps/scapify-restock-alert/blocks/star_rating/91537784-83c9-419a-b7c5-1325beeb1ab7",
           "settings": {
             "product": "{{product}}",
             "colour": "#ff0000"
@@ -65,7 +65,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "scapify_restock_alert_request_alert_button_aQnzmp",
+        "scapify_restock_alert_star_rating_3VHQhm",
         "scapify_care_wishlist_section_Tyh8f7"
       ],
       "settings": {
